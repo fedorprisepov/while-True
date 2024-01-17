@@ -1,0 +1,3 @@
+# Основной цикл игры
+while True:
+    for event in pygame.event.get():
